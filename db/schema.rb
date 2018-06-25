@@ -17,6 +17,8 @@ ActiveRecord::Schema.define(version: 20180623150952) do
     t.string "item_type"
     t.string "manufacturer"
     t.string "drop"
+    t.boolean "story_mode"
+    t.integer "story_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.string "location"
