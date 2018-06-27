@@ -47,6 +47,42 @@ Loot.create(name: 'Legendary Hoarder', item_type: 'Class Mod', manufacturer: 'Vl
 Loot.create(name: 'Legendary Anachist', item_type: 'Class Mod', manufacturer: 'Vladof', drop: 'Chubby Enemies', location: 'Any');
 
 #Grenade Mods
+Loot.create(name: 'Nasty Surprise', item_type: 'Grenade Mod', manufacturer: 'Hyperion', drop: 'Vermivorous the Invincible', location: 'Caustic Caverns, Tundra Express, Wam Bam Island');
+Loot.create(name: 'Quasar', item_type: 'Grenade Mod', manufacturer: 'Hyperion', drop: 'Ultimate Badass Varkid', location: 'Caustic Caverns, Tundra Express');
+Loot.create(name: 'Bouncy Bonny', item_type: 'Grenade Mod', manufacturer: 'Dahl', drop: 'Loot Midget', location: 'Any');
+Loot.create(name: 'Fastball', item_type: 'Grenade Mod', manufacturer: 'Tediore', drop: 'Boll', location: 'Three Horns - Divide');
+Loot.create(name: 'Chain Lightning', item_type: 'Grenade Mod', manufacturer: 'Maliwan', drop: 'Badass Sorcerer', location: "Hatred's Shadow, Lair of Infinite Agony, Dragon Keep");
+Loot.create(name: 'Leech', item_type: 'Grenade Mod', manufacturer: 'Maliwan', drop: 'The Warrior', location: 'Vault of the Warrior');
+Loot.create(name: 'Firestorm', item_type: 'Grenade Mod', manufacturer: 'Maliwan', drop: 'Badass Sorcerer', location: "Hatred's Shadow, Lair of Inifinite Agony, Dragon Keep");
+Loot.create(name: 'Rolling Thunder', item_type: 'Grenade Mod', manufacturer: 'Torgue', drop: 'Wilhelm', location: 'End of the Line');
+Loot.create(name: 'Bonus Package', item_type: 'Grenade Mod', manufacturer: 'Torgue', drop: 'Boom and Bewm', location: 'Southern Shelf');
+Loot.create(name: 'Fire Bee', item_type: 'Grenade Mod', manufacturer: 'Vladof', drop: 'Any', location: 'Any');
+Loot.create(name: 'Pandemic', item_type: 'Grenade Mod', manufacturer: 'Vladof', drop: 'Mortar', location: 'Sawtooth Cauldron');
+Loot.create(name: 'Storm Front', item_type: 'Grenade Mod', manufacturer: 'Vladof', drop: 'Lee, Dan, Mick, or Ralph', location: 'Bloodshot Stronghold');
+
+#Pistols
+Loot.create(name: 'Maggie', item_type: 'Pistol', manufacturer: 'Jakobs', drop: 'Mick Zaford', location: 'The Dust');
+Loot.create(name: 'Unkempt Harold', item_type: 'Pistol', manufacturer: 'Torgue', drop: 'Savage Lee', location: 'Three Horns - Divide');
+
+#Relic
+Loot.create(name: 'Blood of Terramorphous', item_type: 'Relic', manufacturer: 'Eridian', drop: 'Terramorphous the Invincible', location: 'Terramorphous Peak');
+
+#Repeater Pistol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
