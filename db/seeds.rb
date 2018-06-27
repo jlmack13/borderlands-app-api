@@ -68,6 +68,86 @@ Loot.create(name: 'Unkempt Harold', item_type: 'Pistol', manufacturer: 'Torgue',
 Loot.create(name: 'Blood of Terramorphous', item_type: 'Relic', manufacturer: 'Eridian', drop: 'Terramorphous the Invincible', location: 'Terramorphous Peak');
 
 #Repeater Pistol
+Loot.create(name: "Logan's Gun", item_type: 'Repeater Pistol', manufacturer: 'Hyperion', drop: 'Wilhelm', location: 'End of the Line');
+Loot.create(name: 'Gub', item_type: 'Repeater Pistol', manufacturer: 'Bandit', drop: 'Laney White', location: 'The Fridge');
+Loot.create(name: 'Hornet', item_type: 'Repeater Pistol', manufacturer: 'Dahl', drop: 'Knuckle Dragger', location: 'Southern Shelf');
+Loot.create(name: 'Gunerang', item_type: 'Repeater Pistol', manufacturer: 'Tediore', drop: 'Rakkman', location: 'The Fridge');
+Loot.create(name: 'Thunderball Fists', item_type: 'Repeater Pistol', manufacturer: 'Maliwan', drop: 'Captain Flynt', location: 'Southern Shelf');
+Loot.create(name: 'Infinity', item_type: 'Repeater Pistol', manufacturer: 'Vladof', drop: 'Doc Mercy', location: 'Three Horns - Valley, The Raid on Digistruct Peak');
+
+#Rocket Launcher
+Loot.create(name: 'Badaboom', item_type: 'Rocket Launcher', manufacturer: 'Bandit', drop: 'King Mong', location: 'Eridium Blight');
+Loot.create(name: 'Norfleet', item_type: 'Rocket Launcher', manufacturer: 'Maliwan', drop: 'Vermivorous the Invincible', location: 'Caustic Caverns, Tundra Express, Wam Bam Island');
+Loot.create(name: 'Pyrophobia', item_type: 'Rocket Launcher', manufacturer: 'Maliwan', drop: 'Incinerator Clayton', location: 'Frostburn Canyon');
+Loot.create(name: 'Nukem', item_type: 'Rocket Launcher', manufacturer: 'Torgue', drop: 'The Black Queen', location: 'The Dust, The Raid on Digistruct Peak');
+Loot.create(name: 'Bunny', item_type: 'Rocket Launcher', manufacturer: 'Tediore', drop: 'Chubby Enemies', location: 'Any');
+Loot.create(name: 'Mongol', item_type: 'Rocket Launcher', manufacturer: 'Vladof', drop: "Dukino's Mom", location: 'Lynchwood, The Raid on Digistruct Peak');
+
+#Shield
+Loot.create(name: 'The Transformer', item_type: 'Shield', manufacturer: 'Vladof', drop: 'Pimon', location: 'Wildlife Exploitation Preserve');
+Loot.create(name: 'The Sham', item_type: 'Shield', manufacturer: 'Vladof', drop: 'BNK3R', location: 'The Bunker');
+Loot.create(name: 'Neogenator', item_type: 'Shield', manufacturer: 'Anshin', drop: 'Spycho', location: 'Frostburn Canyon');
+Loot.create(name: 'The Bee', item_type: 'Shield', manufacturer: 'Hyperion', drop: 'Hunter Hellquist', location: 'Arid Nexus - Boneyard');
+Loot.create(name: 'Whisky Tango Foxtrot', item_type: 'Shield', manufacturer: 'Dahl', drop: 'Chubby Enemies', location: 'Any');
+Loot.create(name: 'Flame of the Firehawk', item_type: 'Shield', manufacturer: 'Maliwan', drop: 'Mission Reward - Cult Following: The Enkindling', location: 'Frostburn Canyon');
+Loot.create(name: 'Black Hole', item_type: 'Shield', manufacturer: 'Maliwan', drop: 'Foreman Jasper', location: 'Opportunity');
+Loot.create(name: 'Impaler', item_type: 'Shield', manufacturer: 'Maliwan', drop: 'The Warrior', location: 'Vault of the Warrior');
+Loot.create(name: 'The Cradle', item_type: 'Shield', manufacturer: 'Tediore', drop: 'Henry', location: 'The Highlands');
+Loot.create(name: 'Hide of Terramorphous', item_type: 'Shield', manufacturer: 'Bandit', drop: 'Terramorphous the Invincible', location: 'Terramorphous Peak');
+Loot.create(name: 'Fabled Tortoise', item_type: 'Shield', manufacturer: 'Pangolin', drop: 'Blue', location: 'Caustic Caverns');
+
+#Shotgun
+Loot.create(name: 'Striker', item_type: 'Shotgun', manufacturer: 'Jakobs', drop: 'Old Slappy', location: 'The Highlands - Outwash');
+Loot.create(name: 'Conference Call', item_type: 'Shotgun', manufacturer: 'Hyperion', drop: 'The Warrior', location: 'Vault of the Warrior');
+Loot.create(name: "Sledge's Shotgun", item_type: 'Shotgun', manufacturer: 'Bandit', drop: 'Smash-Head', location: 'The Fridge');
+Loot.create(name: 'Deliverance', item_type: 'Shotgun', manufacturer: 'Tediore', drop: 'Tumbaa', location: 'Wildlife Exploitation Preserve');
+Loot.create(name: 'Flakker', item_type: 'Shotgun', manufacturer: 'Torgue', drop: 'The Warrior', location: 'Vault of the Warrior');
+
+#Sniper Rifle
+Loot.create(name: 'Invader', item_type: 'Sniper Rifle', manufacturer: 'Hyperion', drop: 'Saturn', location: 'Arid Nexus - Badlands, The Raid on Digistruct Peak');
+Loot.create(name: 'Longbow', item_type: 'Sniper Rifle', manufacturer: 'Hyperion', drop: 'Badass Creeper', location: 'Caustic Caverns');
+Loot.create(name: 'Pitchfork', item_type: 'Sniper Rifle', manufacturer: 'Dahl', drop: 'Terramorphous the Invincible', location: 'Terramorphous Peak');
+Loot.create(name: 'Volcano', item_type: 'Sniper Rifle', manufacturer: 'Maliwan', drop: 'The Warrior', location: 'Vault of the Warrior');
+Loot.create(name: 'Skullmasher', item_type: 'Sniper Rifle', manufacturer: 'Jakobs', drop: 'Son of Mothrakk', location: 'Wildlife Exploitation Preserve');
+Loot.create(name: 'Lyuda/White Death', item_type: 'Sniper Rifle', manufacturer: 'Vladof', drop: 'Gettle', location: 'The Dust');
+
+#SMG
+Loot.create(name: 'Bitch', item_type: 'Submachine Gun', manufacturer: 'Hyperion', drop: 'BNK3R', location: 'The Bunker');
+Loot.create(name: 'Emperor', item_type: 'Submachine Gun', manufacturer: 'Dahl', drop: 'Wot, Oney, Reeth, Rouf', location: 'Southpaw Steam & Power, The Raid on Digistruct Peak');
+Loot.create(name: 'Slagga', item_type: 'Submachine Gun', manufacturer: 'Bandit', drop: 'Tector & Jimbo Hodunk', location: 'The Dust');
+Loot.create(name: 'Hellfire', item_type: 'Submachine Gun', manufacturer: 'Maliwan', drop: 'Scorch', location: 'Frostburn Canyon, The Raid on Digistruct Peak');
+Loot.create(name: 'Baby Maker', item_type: 'Submachine Gun', manufacturer: 'Tediore', drop: 'Madame Von Bartlesby', location: 'Tundra Express');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
