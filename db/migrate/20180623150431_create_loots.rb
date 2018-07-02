@@ -7,6 +7,8 @@ class CreateLoots < ActiveRecord::Migration[5.1]
       t.string :drop
       t.boolean :story_mode
       t.integer :story_id
+      t.string :story_quest
+      t.text :note
 
       t.timestamps
     end
