@@ -5,6 +5,11 @@ class Api::LootsController < ApplicationController
         render json: @loots
     end
 
+    def story_mode 
+        @loots = Loot.where(story_mode: true).order(:story_id)
+        render json: @loots
+    end
+
     def create
         @loot = Loot.new(loot_params)
         if @loot.save
