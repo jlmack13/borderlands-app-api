@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 20180623150952) do
     t.string "item_type"
     t.string "manufacturer"
     t.string "drop"
-    t.boolean "story_mode"
+    t.boolean "story_mode", default: false
     t.integer "story_id"
     t.string "story_quest"
     t.text "note"

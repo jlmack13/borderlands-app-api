@@ -5,7 +5,7 @@ class CreateLoots < ActiveRecord::Migration[5.1]
       t.string :item_type
       t.string :manufacturer
       t.string :drop
-      t.boolean :story_mode
+      t.boolean :story_mode, default: :false
       t.integer :story_id
       t.string :story_quest
       t.text :note
