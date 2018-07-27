@@ -31,7 +31,7 @@ module BorderlandsAppApi
     config.api_only = true
 
     config.action_dispatch.default_headers = {
-      'Access-Control-Allow-Origin' => '*',
+      'Access-Control-Allow-Origin' => 'https://borderlands-2-lootsplosion.herokuapp.com',
       'Access-Control-Request-Method' => %w{GET POST OPTIONS}.join(",")
     }
   end
