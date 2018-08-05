@@ -119,6 +119,9 @@ Loot.create(name: 'Slagga', item_type: 'Submachine Gun', manufacturer: 'Bandit',
 Loot.create(name: 'Hellfire', item_type: 'Submachine Gun', manufacturer: 'Maliwan', drop: 'Scorch', location: 'Frostburn Canyon, The Raid on Digistruct Peak',  story_mode: true, story_id: 9, story_quest: 'False Idol', image_url: 'https://vignette.wikia.nocookie.net/borderlands/images/8/87/SMG_Maliwan_Hellfire_%28Inspect_View%29.jpg/revision/latest?cb=20170706153554');
 Loot.create(name: 'Baby Maker', item_type: 'Submachine Gun', manufacturer: 'Tediore', drop: 'Madame Von Bartlesby', location: 'Tundra Express',  story_mode: true, story_id: 20, story_quest: 'You Are Cordially Invited: Party Prep', image_url: 'https://vignette.wikia.nocookie.net/borderlands/images/7/7a/SMG_Tediore_Baby_Maker_%28Inspect_View%29.jpg/revision/latest?cb=20170706153327');
 
+#Regions
+
+#Locations
 
 
 
